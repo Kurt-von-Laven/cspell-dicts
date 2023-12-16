@@ -22,6 +22,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-fa-ir-v4.0.0...@cspell/dict-fa-ir@5.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2627))
+* Upgrade fa_IR Dictionary ([#2454](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2454))
+
+### Features
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2627)) ([56a266a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/56a266aafdcde83043b92022dd0ae187c1d53498))
+* Upgrade fa_IR Dictionary ([#2454](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2454)) ([74de119](https://github.com/Kurt-von-Laven/cspell-dicts/commit/74de1198aa9d64eb8d53ce44a16ef9ed04dc6b27))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fa-ir@3.0.0...@cspell/dict-fa-ir@4.0.0) (2023-11-12)
 
 

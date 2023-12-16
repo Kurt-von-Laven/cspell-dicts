@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.6](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-golang-v6.0.5...@cspell/dict-golang@6.0.6) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* add GOPATH to go.txt add Tencent to companies.txt ([#2225](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2225)) ([d7d4448](https://github.com/Kurt-von-Laven/cspell-dicts/commit/d7d4448b165a9984657bc4a5108df23214989581))
+* Workflow Bot -- Build Dictionaries ([#2228](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2228)) ([2b4f727](https://github.com/Kurt-von-Laven/cspell-dicts/commit/2b4f7276aac738eac0d74123b2e9222dc66f565b))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/Kurt-von-Laven/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/Kurt-von-Laven/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+
 ## [6.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@6.0.4...@cspell/dict-golang@6.0.5) (2023-11-19)
 
 

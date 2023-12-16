@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.4](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-dart-v2.0.3...@cspell/dict-dart@2.0.4) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [2.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-dart@2.0.2...@cspell/dict-dart@2.0.3) (2023-07-19)
 
 

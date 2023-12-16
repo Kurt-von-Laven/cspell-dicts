@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.2.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-ar-v1.1.0...@cspell/dict-ar@1.2.0) (2023-12-16)
+
+
+### Features
+
+* Rebuild dictionaries ([#2345](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2345)) ([a42db50](https://github.com/Kurt-von-Laven/cspell-dicts/commit/a42db50300924afe6a44049f4d26a86c5a09457a))
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [1.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ar@1.0.3...@cspell/dict-ar@1.1.0) (2023-07-19)
 
 
