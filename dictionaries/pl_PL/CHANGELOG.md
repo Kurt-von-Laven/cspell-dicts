@@ -22,6 +22,24 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-pl_pl-v3.0.1...@cspell/dict-pl_pl@4.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Rebuild Polish and Update License ([#2340](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2340))
+* Upgrade PL Dict ([#2276](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2276))
+
+### Features
+
+* Rebuild Polish and Update License ([#2340](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2340)) ([c7ec0ff](https://github.com/Kurt-von-Laven/cspell-dicts/commit/c7ec0ff54c25b3acb69fd7ba5ab8740ac2433f3a))
+* Upgrade PL Dict ([#2276](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2276)) ([b3091c9](https://github.com/Kurt-von-Laven/cspell-dicts/commit/b3091c9ad0b1bfd9337845351a24bfdbf2b73aa2))
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+
 ## [3.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-pl_pl@3.0.0...@cspell/dict-pl_pl@3.0.1) (2023-10-11)
 
 

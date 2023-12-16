@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-nb-no-v2.0.0...@cspell/dict-nb-no@3.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Rebuild Norwegian ([#2369](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2369))
+
+### Features
+
+* Rebuild Norwegian ([#2369](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2369)) ([af6aca1](https://github.com/Kurt-von-Laven/cspell-dicts/commit/af6aca1a17341dd15b4a9e4a99801eeed14e89d6))
+
 ## [2.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-nb-no@1.0.5...@cspell/dict-nb-no@2.0.0) (2023-08-02)
 
 

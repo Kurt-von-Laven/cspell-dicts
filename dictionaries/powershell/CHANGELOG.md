@@ -27,6 +27,16 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.4](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-powershell-v5.0.3...@cspell/dict-powershell@5.0.4) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* Add `notcontains` to PowerShell dictionary ([#2272](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2272)) ([74aec44](https://github.com/Kurt-von-Laven/cspell-dicts/commit/74aec4431396c353dcf4cf54ef90486d8f74c706))
+* Added missing comparison operators ([#2802](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2802)) ([2887c19](https://github.com/Kurt-von-Laven/cspell-dicts/commit/2887c19a5f8be4bcfdc8d8c54e06ca106a1612ed))
+* Workflow Bot -- Build Dictionaries ([#2282](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2282)) ([793e6be](https://github.com/Kurt-von-Laven/cspell-dicts/commit/793e6bea7a986fbb18cdbf928b11c1006ead1565))
+* Workflow Bot -- Build Dictionaries ([#2796](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2796)) ([515711d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/515711d7dc8e9ae39f1e4e7aebe84af5cc19b4de))
+
 ## [5.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-powershell@5.0.2...@cspell/dict-powershell@5.0.3) (2023-12-11)
 
 

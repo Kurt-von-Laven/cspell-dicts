@@ -22,6 +22,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-uk-ua-v4.0.0...@cspell/dict-uk-ua@5.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2627))
+
+### Features
+
+* Update dictionary sources ([#2705](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/Kurt-von-Laven/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2627)) ([56a266a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/56a266aafdcde83043b92022dd0ae187c1d53498))
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/Kurt-von-Laven/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-uk-ua@3.1.0...@cspell/dict-uk-ua@4.0.0) (2023-11-12)
 
 

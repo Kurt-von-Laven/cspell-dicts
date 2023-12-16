@@ -3,6 +3,40 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-python-v4.1.10...@cspell/dict-python@4.2.0) (2023-12-16)
+
+
+### Features
+
+* use `data-science` dictionary in Python ([#2224](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2224)) ([1c840e9](https://github.com/Kurt-von-Laven/cspell-dicts/commit/1c840e9ae5e506a23ddf563bc38af5f01ad6e099))
+
+
+### Updates and Bug Fixes
+
+* Add "hhatto" to Python dictionary ([#2475](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2475)) ([832d50a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/832d50a68fd3d5f79b36b5b0ec8962f1c90c865f))
+* Add "PYTHONHOME" to python dict ([#2697](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2697)) ([a099929](https://github.com/Kurt-von-Laven/cspell-dicts/commit/a0999297967fd21639c9b167c5edac5d3ea60f64))
+* Add "venvs" to the python dict ([#2695](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2695)) ([7b9d821](https://github.com/Kurt-von-Laven/cspell-dicts/commit/7b9d8218f6e7c5bbfc5a6fc97cd9727e2a0489e1))
+* add Bokeh Chainer etc. to common_packages ([#2367](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2367)) ([b6ecf9a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/b6ecf9aa107bba299196b8105ccef38144c719a4))
+* add pathlib oneflow to common_packages ([#2358](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2358)) ([be72d35](https://github.com/Kurt-von-Laven/cspell-dicts/commit/be72d3506c4525f6f428152605b3c7d3c92d928b))
+* add pybindll docutils to common_packages ([#2402](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2402)) ([d43abfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/d43abfcbf6127a0fa8f5cfca27836854b4dccb7f))
+* add pyenv to python ([#2569](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2569)) ([288176b](https://github.com/Kurt-von-Laven/cspell-dicts/commit/288176b43e92eb46d7decaf42a4078d5caf949dc))
+* add qualname to python ([#2350](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2350)) ([15730b3](https://github.com/Kurt-von-Laven/cspell-dicts/commit/15730b3391123d431318298a55dcabd6a9e5cfbe))
+* add reportlab etc. to common_packages.txt ([#2302](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2302)) ([d6ef973](https://github.com/Kurt-von-Laven/cspell-dicts/commit/d6ef973281a561947fe0a5f354cfdab7a6b44c89))
+* add some words to common_packages.txt ([#2243](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2243)) ([c52917a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/c52917a15ed973da8d934cdc5dd2fac5055926e1))
+* add some words to data_science.txt ([#2207](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2207)) ([f5aef84](https://github.com/Kurt-von-Laven/cspell-dicts/commit/f5aef84f82ca5512bcc231c34d4118178e19860c))
+* add words to common_packages ([#2241](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2241)) ([533e48d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/533e48d8002a0dd4a752d91e58b061408ea64391))
+* add words to common_packages and network-protocols ([#2255](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2255)) ([67a61f5](https://github.com/Kurt-von-Laven/cspell-dicts/commit/67a61f5f2d937d993d07fe7b3c73db096ecd649b))
+* add words to data_science network-protocols software-teams ([#2197](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2197)) ([abdc1f8](https://github.com/Kurt-von-Laven/cspell-dicts/commit/abdc1f81dff938f86045f04f07855b263b1cc610))
+* Make sure Python uses the latest data sci dict ([#2419](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2419)) ([58cff32](https://github.com/Kurt-von-Laven/cspell-dicts/commit/58cff32aa67960723ebfcd883a73f4bd425ecdfc))
+* Workflow Bot -- Build Dictionaries ([#2202](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2202)) ([3742752](https://github.com/Kurt-von-Laven/cspell-dicts/commit/374275252553fa3b5fa4155ad2843692086ad9cf))
+* Workflow Bot -- Build Dictionaries ([#2242](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2242)) ([8c348e5](https://github.com/Kurt-von-Laven/cspell-dicts/commit/8c348e5f11d6fb9d9620b8e047a02fea148b2600))
+* Workflow Bot -- Build Dictionaries ([#2246](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2246)) ([ba9098d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/ba9098dee8438e62ad848ee462df06ff42945aa5))
+* Workflow Bot -- Build Dictionaries ([#2254](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2254)) ([b60895a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/b60895a987db581536eb1a2df6c7fc7c9d4c9e07))
+* Workflow Bot -- Build Dictionaries ([#2306](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2306)) ([a3a26ff](https://github.com/Kurt-von-Laven/cspell-dicts/commit/a3a26ffd42efbcf0f00207193d7541fc4ca503f8))
+* Workflow Bot -- Build Dictionaries ([#2361](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2361)) ([d68a696](https://github.com/Kurt-von-Laven/cspell-dicts/commit/d68a69611139e52c88ac35cf121f437ff14164ca))
+* Workflow Bot -- Build Dictionaries ([#2368](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2368)) ([279027a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/279027aafb5640e4294e7ff5fb70335ac3c9ecf1))
+* Workflow Bot -- Build Dictionaries ([#2404](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2404)) ([03465cc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/03465cc65b5edb1cd2f8e96a8e377c724d05cab6))
+
 ## [4.1.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.1.9...@cspell/dict-python@4.1.10) (2023-10-30)
 
 

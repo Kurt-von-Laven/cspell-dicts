@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-tr-tr-v3.0.0...@cspell/dict-tr-tr@4.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Turkish dictionary ([#2360](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2360))
+
+### Features
+
+* Update Turkish dictionary ([#2360](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2360)) ([d335f79](https://github.com/Kurt-von-Laven/cspell-dicts/commit/d335f792eee9340d89fb6e5b6d6860ee0580d6b3))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-tr-tr@2.0.0...@cspell/dict-tr-tr@3.0.0) (2023-07-21)
 
 

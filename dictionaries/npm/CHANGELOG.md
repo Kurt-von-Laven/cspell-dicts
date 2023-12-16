@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.14](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-npm-v5.0.13...@cspell/dict-npm@5.0.14) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* add  linkcss to npm.txt ([#2290](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2290)) ([c08202f](https://github.com/Kurt-von-Laven/cspell-dicts/commit/c08202f1112664b5f2e9d457eae9ae553ebb4985))
+* add heroicons to npm ([#2564](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2564)) ([080dcf5](https://github.com/Kurt-von-Laven/cspell-dicts/commit/080dcf563e9f156de2d5aa4297c26ca98f5cb6bc))
+* add pnpx ([#2577](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2577)) ([c8a97e0](https://github.com/Kurt-von-Laven/cspell-dicts/commit/c8a97e038a27dff9db7d569d464ab24cdc17f492))
+* add some missing words ([#2525](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2525)) ([d6c2665](https://github.com/Kurt-von-Laven/cspell-dicts/commit/d6c26652e2d4200868f7ddf817a057f8e3625463))
+* add superjson to npm ([#2561](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2561)) ([d7c046a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/d7c046abfd1f6496ecfb4c66c4eac0566a792f47))
+* add tailwind and tailwindcss to npm ([#2570](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2570)) ([19c6fb1](https://github.com/Kurt-von-Laven/cspell-dicts/commit/19c6fb1e427c1e44f7574b8fc703a36ddf6677ca))
+* add tanstack to npm ([#2587](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2587)) ([2cfa07e](https://github.com/Kurt-von-Laven/cspell-dicts/commit/2cfa07ee2cee6ec8bd875c8bd2603de74e359090))
+* add trpc to software terms ([#2522](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2522)) ([9587ebc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/9587ebcdf8fc68d9986e3efe7d8b041950888867))
+* add various terms ([#2734](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/Kurt-von-Laven/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+* Add words to various dicts ([#2381](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2381)) ([fc610d4](https://github.com/Kurt-von-Laven/cspell-dicts/commit/fc610d48d9d10ce69be8f1b2a10180e58017d89e))
+* Update description of the `npm` dictionary ([#2291](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2291)) ([52e8b6f](https://github.com/Kurt-von-Laven/cspell-dicts/commit/52e8b6f918033b16a4e924545f22365225ad4162))
+* update npm ([#2584](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2584)) ([5df026d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/5df026d1d6bc2846b8aecb167adada0c904d0977))
+* update npm ([#2595](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2595)) ([f1a459d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/f1a459df54d84cdfe60289d0c52cbeeb95fe3720))
+* Update npm description in extension. ([#2299](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2299)) ([4f2546b](https://github.com/Kurt-von-Laven/cspell-dicts/commit/4f2546b1e3907eaa1bdb15a4e268b0062cd0c5d0))
+* Workflow Bot -- Build Dictionaries ([#2296](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2296)) ([3bff84b](https://github.com/Kurt-von-Laven/cspell-dicts/commit/3bff84b43fe11a3fae3ce5b8250bdbb9980df4fa))
+* Workflow Bot -- Build Dictionaries ([#2383](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2383)) ([cb4110d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/cb4110d8d56bbda80c92a4d9d1831ff613fd54f8))
+* Workflow Bot -- Build Dictionaries ([#2529](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2529)) ([4f2e9a4](https://github.com/Kurt-von-Laven/cspell-dicts/commit/4f2e9a49395b32362aadfa29c12e60e3ea8d4f68))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/Kurt-von-Laven/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+* Workflow Bot -- Build Dictionaries ([#2538](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2538)) ([5688b42](https://github.com/Kurt-von-Laven/cspell-dicts/commit/5688b42dcc451aba7ff257ab5180c15f4e37abe2))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/Kurt-von-Laven/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+* Workflow Bot -- Build Dictionaries ([#2573](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2573)) ([7ae8040](https://github.com/Kurt-von-Laven/cspell-dicts/commit/7ae8040a41ace6e7b011652eda0d96d89a490f52))
+* Workflow Bot -- Build Dictionaries ([#2579](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2579)) ([69b820a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/69b820aacae3abdf41e9b6f16a8b35afd6838bad))
+* Workflow Bot -- Build Dictionaries ([#2585](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2585)) ([6eb7658](https://github.com/Kurt-von-Laven/cspell-dicts/commit/6eb765831220892eda6a751c86d1465963a1d953))
+* Workflow Bot -- Build Dictionaries ([#2598](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2598)) ([6f3c4b1](https://github.com/Kurt-von-Laven/cspell-dicts/commit/6f3c4b14a8731057b9c17e813a4a1593893fa3be))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/Kurt-von-Laven/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+
 ## [5.0.13](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-npm@5.0.12...@cspell/dict-npm@5.0.13) (2023-11-19)
 
 
