@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.3](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-sr-latn-v1.0.2...@cspell/dict-sr-latn@1.0.3) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [1.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sr-latn@1.0.1...@cspell/dict-sr-latn@1.0.2) (2023-07-19)
 
 

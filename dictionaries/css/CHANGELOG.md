@@ -22,6 +22,26 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.13](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-css-v4.0.12...@cspell/dict-css@4.0.13) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* Add `srgb` to css ([#2424](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2424)) ([f116770](https://github.com/Kurt-von-Laven/cspell-dicts/commit/f116770909e65b7091f2335fe2d1d25ab194138e))
+* add bluehaze and tundora to css dictionary ([#2559](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2559)) ([a8131fa](https://github.com/Kurt-von-Laven/cspell-dicts/commit/a8131faac7061c343b7dd4908d8dd571b9990794))
+* add easings to css dictionary ([#2521](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2521)) ([554c5aa](https://github.com/Kurt-von-Laven/cspell-dicts/commit/554c5aacab37d51dab05e974f884b977cd67cbb8))
+* add font feature words to css ([#2586](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2586)) ([5c1df6d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/5c1df6d3c0b88a0e1080dd6224a40b0cfa76baab))
+* add glyphicon to css ([#2600](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2600)) ([eefdb08](https://github.com/Kurt-von-Laven/cspell-dicts/commit/eefdb08ad23d777a1918a67d522c5d7ad4ef588b))
+* add viewports (plural) to css dictionary ([#2524](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2524)) ([e765a89](https://github.com/Kurt-von-Laven/cspell-dicts/commit/e765a89a20645497d0ace65e6a1bb97c044da2a7))
+* add whitespaces (plural) to dictionaries ([#2552](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2552)) ([09e990a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/09e990a724a7bad7db72cd43e9e374290b59b886))
+* Workflow Bot -- Build Dictionaries ([#2425](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2425)) ([93acacb](https://github.com/Kurt-von-Laven/cspell-dicts/commit/93acacb11628732f6a90260c6820cb9a54853153))
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2511)) ([af0713c](https://github.com/Kurt-von-Laven/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+* Workflow Bot -- Build Dictionaries ([#2527](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2527)) ([051753e](https://github.com/Kurt-von-Laven/cspell-dicts/commit/051753eeeba9c0e8771d53a2530f417941a5c333))
+* Workflow Bot -- Build Dictionaries ([#2553](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2553)) ([46ce681](https://github.com/Kurt-von-Laven/cspell-dicts/commit/46ce6812d8770d6017b72c48faf4f91ca2092896))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/Kurt-von-Laven/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+* Workflow Bot -- Build Dictionaries ([#2585](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2585)) ([6eb7658](https://github.com/Kurt-von-Laven/cspell-dicts/commit/6eb765831220892eda6a751c86d1465963a1d953))
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/Kurt-von-Laven/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+
 ## [4.0.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.11...@cspell/dict-css@4.0.12) (2023-10-05)
 
 

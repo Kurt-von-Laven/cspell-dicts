@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-vi-vn-v3.0.0...@cspell/dict-vi-vn@4.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade vi_VN format ([#2370](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2370))
+
+### Features
+
+* Upgrade vi_VN format ([#2370](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2370)) ([2266999](https://github.com/Kurt-von-Laven/cspell-dicts/commit/2266999b4bed8b17e94c6f9350af2ea05f23d901))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-vi-vn@2.0.0...@cspell/dict-vi-vn@3.0.0) (2023-08-02)
 
 

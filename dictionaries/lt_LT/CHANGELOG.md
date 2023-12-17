@@ -22,6 +22,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-lt-lt-v4.0.0...@cspell/dict-lt-lt@5.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2627))
+* Upgrade lt_LT Dictionary ([#2440](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2440))
+
+### Features
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2627)) ([56a266a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/56a266aafdcde83043b92022dd0ae187c1d53498))
+* Upgrade lt_LT Dictionary ([#2440](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2440)) ([5a4960c](https://github.com/Kurt-von-Laven/cspell-dicts/commit/5a4960c29167f7d0a56df281e3a31ea466dc68c3))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-lt-lt@3.0.0...@cspell/dict-lt-lt@4.0.0) (2023-11-12)
 
 

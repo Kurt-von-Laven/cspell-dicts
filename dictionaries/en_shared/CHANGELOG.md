@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.9](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-en-shared-v1.0.8...@cspell/dict-en-shared@1.0.9) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* Add "archivable" to English dictionaries ([#2630](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2630)) ([00a98a8](https://github.com/Kurt-von-Laven/cspell-dicts/commit/00a98a8dfd6dbbe0b8bc31f8d4aeca6186706229))
+* add "crafter" to en_shared ([#2431](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2431)) ([c28e010](https://github.com/Kurt-von-Laven/cspell-dicts/commit/c28e010bc17b21cc687b80d6da978934281f91f4))
+* Add terms from Kubernetes repo ([#2655](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2655)) ([e4d8e94](https://github.com/Kurt-von-Laven/cspell-dicts/commit/e4d8e9434efb4610adebee086b9ba78379b05bc0))
+* add various terms ([#2734](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/Kurt-von-Laven/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+
 ## [1.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.7...@cspell/dict-en-shared@1.0.8) (2023-11-19)
 
 

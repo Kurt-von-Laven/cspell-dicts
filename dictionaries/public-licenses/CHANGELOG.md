@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.6](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-public-licenses-v2.0.5...@cspell/dict-public-licenses@2.0.6) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2511)) ([af0713c](https://github.com/Kurt-von-Laven/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+* Workflow Bot -- Build Dictionaries ([#2620](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2620)) ([726ccf8](https://github.com/Kurt-von-Laven/cspell-dicts/commit/726ccf82e0ab0a672d51ec4131184b9b007ee2f6))
+
 ## [2.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-public-licenses@2.0.4...@cspell/dict-public-licenses@2.0.5) (2023-10-07)
 
 

@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-sk-sk-v1.1.1...@cspell/dict-sk-sk@1.2.0) (2023-12-16)
+
+
+### Features
+
+* Rebuild dictionaries ([#2345](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2345)) ([a42db50](https://github.com/Kurt-von-Laven/cspell-dicts/commit/a42db50300924afe6a44049f4d26a86c5a09457a))
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* support additional works ([#2347](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2347)) ([87f8af0](https://github.com/Kurt-von-Laven/cspell-dicts/commit/87f8af0a9f903c0a7bffccc7812b41291f2480a1))
+
 ## [1.1.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sk-sk@1.1.0...@cspell/dict-sk-sk@1.1.1) (2023-10-11)
 
 

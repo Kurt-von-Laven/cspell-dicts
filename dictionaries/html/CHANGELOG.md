@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.6](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-html-v4.0.5...@cspell/dict-html@4.0.6) (2023-12-16)
+
+
+### Updates and Bug Fixes
+
+* add inputfield to software terms and html dictionaries ([#2560](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2560)) ([42e954e](https://github.com/Kurt-von-Laven/cspell-dicts/commit/42e954e0c610d706e58c0cd85a563a25a981a339))
+* add webp to html dictionary ([#2532](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2532)) ([cd83278](https://github.com/Kurt-von-Laven/cspell-dicts/commit/cd83278daeb6664d4de168780e43f5f22db38c02))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/Kurt-von-Laven/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/Kurt-von-Laven/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+
 ## [4.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-html@4.0.4...@cspell/dict-html@4.0.5) (2023-09-27)
 
 

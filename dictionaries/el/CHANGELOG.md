@@ -22,6 +22,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-el-v3.1.0...@cspell/dict-el@4.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Greek Dictionary and License to GPL ([#2339](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2339))
+* Update Greek ([#2338](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2338))
+
+### Features
+
+* Update dictionary sources ([#2705](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/Kurt-von-Laven/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+* Update Greek ([#2338](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2338)) ([e8dfd64](https://github.com/Kurt-von-Laven/cspell-dicts/commit/e8dfd644ffb49db8b8850ffdd8c3fa62c5a09ff2))
+* Update Greek Dictionary and License to GPL ([#2339](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2339)) ([4ebd3b5](https://github.com/Kurt-von-Laven/cspell-dicts/commit/4ebd3b5a7184768e51c32d9c697065e08b380c88))
+
+
+### Updates and Bug Fixes
+
+* Support adding Greek words ([#2342](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2342)) ([0f3bc2f](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0f3bc2fed89f6c9d5699613f0c66d72af17f9d7a))
+* Workflow Bot -- Build Dictionaries ([#2344](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2344)) ([5e74866](https://github.com/Kurt-von-Laven/cspell-dicts/commit/5e74866be0354bab2894d961ffffc61ac1b167f0))
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/Kurt-von-Laven/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+
 ## [3.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-el@3.0.0...@cspell/dict-el@3.1.0) (2023-11-06)
 
 
