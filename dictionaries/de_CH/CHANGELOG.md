@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-de-ch-v1.2.0...@cspell/dict-de-ch@1.3.0) (2023-12-19)
+
+
+### Features
+
+* Update dictionary sources ([#2705](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/Kurt-von-Laven/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/Kurt-von-Laven/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+
 ## [1.2.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-de-ch@1.1.0...@cspell/dict-de-ch@1.2.0) (2023-11-06)
 
 

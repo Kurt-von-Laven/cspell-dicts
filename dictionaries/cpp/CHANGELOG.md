@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.11](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-cpp-v5.0.10...@cspell/dict-cpp@5.0.11) (2023-12-19)
+
+
+### Updates and Bug Fixes
+
+* Add terms from [#556](https://github.com/Kurt-von-Laven/cspell-dicts/issues/556) ([#2634](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2634)) ([3187e70](https://github.com/Kurt-von-Laven/cspell-dicts/commit/3187e7009bb9b7f31cf6aac64b346139414b392e))
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+* Workflow Bot -- Build Dictionaries ([#2483](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2483)) ([83a2db6](https://github.com/Kurt-von-Laven/cspell-dicts/commit/83a2db659dd2adbb61c10d4552663f68a21fb9f4))
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/Kurt-von-Laven/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+* Workflow Bot -- Build Dictionaries ([#2611](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2611)) ([ea75827](https://github.com/Kurt-von-Laven/cspell-dicts/commit/ea75827937176ffd3b76aba6a013e4ac452452af))
+* Workflow Bot -- Build Dictionaries ([#2615](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2615)) ([623513e](https://github.com/Kurt-von-Laven/cspell-dicts/commit/623513e50b4eb5accac6ad5c26747204cb9a5256))
+* Workflow Bot -- Build Dictionaries ([#2616](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2616)) ([5a514d9](https://github.com/Kurt-von-Laven/cspell-dicts/commit/5a514d9ca1ffaa5e4fea089c571a2e61e46021db))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/Kurt-von-Laven/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2740](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2740)) ([f79bf45](https://github.com/Kurt-von-Laven/cspell-dicts/commit/f79bf4552b87c0e8826f9542358b84ede0ff32da))
+
 ## [5.0.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.9...@cspell/dict-cpp@5.0.10) (2023-11-28)
 
 

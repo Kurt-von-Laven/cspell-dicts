@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-aws-v4.0.0...@cspell/dict-aws@5.0.0) (2023-12-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade AWS Dict ([#2274](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2274))
+
+### Features
+
+* Upgrade AWS Dict ([#2274](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2274)) ([fe6f76c](https://github.com/Kurt-von-Laven/cspell-dicts/commit/fe6f76cf8e4ea134f747d5cc9e2c7251fc1f777f))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-aws@3.0.0...@cspell/dict-aws@4.0.0) (2023-07-20)
 
 

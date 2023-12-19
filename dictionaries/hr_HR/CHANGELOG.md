@@ -33,6 +33,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-hr-hr-v3.0.0...@cspell/dict-hr-hr@4.0.0) (2023-12-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade hr_HR Dictionary ([#2441](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2441))
+
+### Features
+
+* Upgrade hr_HR Dictionary ([#2441](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2441)) ([1ed7f21](https://github.com/Kurt-von-Laven/cspell-dicts/commit/1ed7f214071eb596238f618b5e00384acf4c4d2e))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-hr-hr@2.0.0...@cspell/dict-hr-hr@3.0.0) (2023-08-31)
 
 

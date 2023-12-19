@@ -22,6 +22,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-he-v4.0.0...@cspell/dict-he@5.0.0) (2023-12-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2627))
+* Rebuild Hebrew dictionary ([#2349](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2349))
+
+### Features
+
+* Rebuild Hebrew dictionary ([#2349](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2349)) ([50ab8de](https://github.com/Kurt-von-Laven/cspell-dicts/commit/50ab8def9ee8eb62d56988945e6d23551ff8dbe2))
+* Update licenses for several dictionaries to match license of their sources ([#2627](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2627)) ([56a266a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/56a266aafdcde83043b92022dd0ae187c1d53498))
+
 ## [4.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-he@3.0.0...@cspell/dict-he@4.0.0) (2023-11-12)
 
 

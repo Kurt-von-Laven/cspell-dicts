@@ -14,6 +14,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.3.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-de-de-v3.2.0...@cspell/dict-de-de@3.3.0) (2023-12-19)
+
+
+### Features
+
+* Update dictionary sources ([#2705](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/Kurt-von-Laven/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Workflow Bot -- Build Dictionaries ([#2707](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2707)) ([2f4fb72](https://github.com/Kurt-von-Laven/cspell-dicts/commit/2f4fb72ad0b370c78bdbc19f38ee6a452e767010))
+
 ## [3.2.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-de-de@3.1.1...@cspell/dict-de-de@3.2.0) (2023-11-06)
 
 

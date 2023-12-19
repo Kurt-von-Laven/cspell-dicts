@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.4](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-bash-v4.1.3...@cspell/dict-bash@4.1.4) (2023-12-19)
+
+
+### Updates and Bug Fixes
+
+* add keymap and keymaps to bash words ([#2568](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2568)) ([bef869c](https://github.com/Kurt-von-Laven/cspell-dicts/commit/bef869c78de50e549a23832f57892b071ab1f7c9))
+* Add OPTARG to bash-words.txt ([#2758](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2758)) ([0d4dc9c](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0d4dc9cfae3550cc489bd8d41172cae91983e490))
+* add readline to shell and bash ([#2572](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2572)) ([4b7b3b6](https://github.com/Kurt-von-Laven/cspell-dicts/commit/4b7b3b6930a392fd22192ddf5884538410ca20fb))
+* Workflow Bot -- Build Dictionaries ([#2573](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2573)) ([7ae8040](https://github.com/Kurt-von-Laven/cspell-dicts/commit/7ae8040a41ace6e7b011652eda0d96d89a490f52))
+* Workflow Bot -- Build Dictionaries ([#2765](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2765)) ([237283b](https://github.com/Kurt-von-Laven/cspell-dicts/commit/237283b3b6c48f3c0f44736d1743094934e6eb60))
+
 ## [4.1.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-bash@4.1.2...@cspell/dict-bash@4.1.3) (2023-12-05)
 
 

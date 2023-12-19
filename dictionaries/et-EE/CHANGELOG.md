@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-et-ee-v3.1.0...@cspell/dict-et-ee@4.0.0) (2023-12-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Convert et-EE license to LGPL 3.0 ([#2624](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2624))
+
+### Features
+
+* Convert et-EE license to LGPL 3.0 ([#2624](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2624)) ([ca1974b](https://github.com/Kurt-von-Laven/cspell-dicts/commit/ca1974b547648e7c85ce4aba22a1f008bd23c8f9))
+* Update dictionary sources ([#2705](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2705)) ([27ad9de](https://github.com/Kurt-von-Laven/cspell-dicts/commit/27ad9de120fc71bc1b9a2aacc4407c423aeee2fd))
+
+
+### Updates and Bug Fixes
+
+* rebuild Estonian ([#2337](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2337)) ([d27cb70](https://github.com/Kurt-von-Laven/cspell-dicts/commit/d27cb70927043e51c964edd85e21589d876add68))
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [3.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-et-ee@3.0.0...@cspell/dict-et-ee@3.1.0) (2023-11-06)
 
 
