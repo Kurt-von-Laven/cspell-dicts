@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.3](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-typescript-v3.1.2...@cspell/dict-typescript@3.1.3) (2023-12-19)
+
+
+### Updates and Bug Fixes
+
+* add whitespaces (plural) to dictionaries ([#2552](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2552)) ([09e990a](https://github.com/Kurt-von-Laven/cspell-dicts/commit/09e990a724a7bad7db72cd43e9e374290b59b886))
+
 ## [3.1.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@3.1.1...@cspell/dict-typescript@3.1.2) (2023-09-22)
 
 

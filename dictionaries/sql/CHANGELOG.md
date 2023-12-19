@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.3](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-sql-v2.1.2...@cspell/dict-sql@2.1.3) (2023-12-19)
+
+
+### Updates and Bug Fixes
+
+* add foreignkey to sql dictionary ([#2631](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2631)) ([8d8f5a6](https://github.com/Kurt-von-Laven/cspell-dicts/commit/8d8f5a6242f58050da7192ec19370ba146f56046))
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [2.1.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sql@2.1.1...@cspell/dict-sql@2.1.2) (2023-10-11)
 
 

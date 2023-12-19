@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-sl-si-v1.0.5...@cspell/dict-sl-si@1.0.6) (2023-12-19)
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [1.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sl-si@1.0.4...@cspell/dict-sl-si@1.0.5) (2023-10-11)
 
 

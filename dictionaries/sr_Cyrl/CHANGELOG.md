@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.2.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-sr-cyrl-v1.1.0...@cspell/dict-sr-cyrl@1.2.0) (2023-12-19)
+
+
+### Features
+
+* Add case-insensitive support ([#2469](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2469)) ([cb219dd](https://github.com/Kurt-von-Laven/cspell-dicts/commit/cb219ddf4363ff580c3c3706973696b65d6dad0d))
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [1.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sr-cyrl@1.0.2...@cspell/dict-sr-cyrl@1.1.0) (2023-09-01)
 
 

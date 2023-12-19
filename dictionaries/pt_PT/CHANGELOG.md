@@ -22,6 +22,22 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-pt-pt-v3.0.1...@cspell/dict-pt-pt@4.0.0) (2023-12-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade pt_PT Dictionary ([#2435](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2435))
+
+### Features
+
+* Upgrade pt_PT Dictionary ([#2435](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2435)) ([c067e24](https://github.com/Kurt-von-Laven/cspell-dicts/commit/c067e24a41459b7102b2366279f89f91ddda4ed6))
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/Kurt-von-Laven/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+
 ## [3.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-pt-pt@3.0.0...@cspell/dict-pt-pt@3.0.1) (2023-10-11)
 
 

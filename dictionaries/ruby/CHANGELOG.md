@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.2](https://github.com/Kurt-von-Laven/cspell-dicts/compare/@cspell/dict-ruby-v5.0.1...@cspell/dict-ruby@5.0.2) (2023-12-19)
+
+
+### Updates and Bug Fixes
+
+* update ruby dictionary ([#2599](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2599)) ([ad41b5e](https://github.com/Kurt-von-Laven/cspell-dicts/commit/ad41b5ec1035c89e9486b566ff2bb3332cc0a186))
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/Kurt-von-Laven/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/Kurt-von-Laven/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+
 ## [5.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ruby@5.0.0...@cspell/dict-ruby@5.0.1) (2023-10-05)
 
 
